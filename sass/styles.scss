@@ -1,0 +1,41 @@
+body {
+	background-color: #000;
+	font-family: 'Abril Fatface', cursive;
+}
+
+.navbar-default {
+    background-color: #AF2126;
+    border-color: #999;
+}
+
+.navbar-default .navbar-brand {
+    color: #fff;
+}
+
+.navbar-default .navbar-nav>li>a {
+	color: #fff;
+}
+.acme {
+	color: #fff;
+	text-shadow: 3px 3px 1px #000;
+	background-image: url("/images/acme.jpg");
+}
+
+.products {
+	border: 2px solid #FDD1B1;
+	box-shadow: 2px 2px #999;
+	height: 300px;
+}
+
+h1 {
+	text-align: center;
+	text-decoration: underline;
+}
+h2 {
+	text-decoration: underline;
+}
+
+ h2,
+ h4 {
+ 	padding: 3%;
+ }

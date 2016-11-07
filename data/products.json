@@ -1,0 +1,82 @@
+{
+    "products": [{
+        "fairy_sparklers": {
+            "id": 0,
+            "type": 0,
+            "name": "Fairy Sparklers",
+            "description": "Multi-colored sparklers that are safe for any age."
+        },
+        
+        "bottle_rockets": {
+            "id": 1,
+            "type": 0,
+            "name": "Bottle Rockets",
+            "description": "Little explosive bundles of joy."
+        },
+        
+        "roman_candle": {
+            "id": 2,
+            "type": 0,
+            "name": "Roman Candle",
+            "description": "Pretty little flames throwers."
+        },
+          "M_80": {
+            "id": 3,
+            "type": 0,
+            "name": "M-80",
+            "description": "You could even lose a finger."
+        },
+          "black_cats": {
+            "id": 4,
+            "type": 0,
+            "name": "Black Cats",
+            "description": "Scare your neighbors at 2am."
+        },
+          "jumping_jacks": {
+            "id": 5,
+            "type": 0,
+            "name": "Jumping Jacks",
+            "description": "Sure to leave you doing them."
+        },
+        
+        "tnt": {
+            "id": 6,
+            "type": 1,
+            "name": "TNT",
+            "description": "Ultimate stump remover"
+        },
+        
+        "c4": {
+            "id": 7,
+            "type": 1,
+            "name": "C4",
+            "description": "Ultimate door remover."
+        },
+        
+        "hand_grenade": {
+            "id": 8,
+            "type": 1,
+            "name": "Hand Grenade",
+            "description": "Handy object remover."
+        },
+        "hellfire_missle": {
+            "id": 9,
+            "type": 1,
+            "name": "Hellfire Missle",
+            "description": "Anonymous object remover."
+        },
+        "land_mine": {
+            "id": 10,
+            "type": 1,
+            "name": "Land Mine",
+            "description": "Handy object remover."
+        },
+        "molotov_cocktail": {
+            "id": 11,
+            "type": 1,
+            "name": "Molotov Cocktail",
+            "description": "On the fly problem solver."
+        }
+
+    }]
+}
